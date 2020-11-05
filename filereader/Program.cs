@@ -10,6 +10,7 @@ namespace filereader
         {
             DirectoryRetrievePath();
         }
+
         static void DirectoryRetrievePath()
         {
             bool pathFound = false;
